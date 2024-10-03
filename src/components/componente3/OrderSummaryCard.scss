@@ -1,0 +1,22 @@
+.order-summary-page {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;           
+    background-color: #f0f4ff; 
+  }
+  
+  .order-summary-card {
+    width: 300px;           
+    background-color: white; 
+    border-radius: 15px;    
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1); 
+       
+    text-align: center;     
+  }
+  
+  .order-image img {
+    width: 100%;            
+    border-top-left-radius: 15px; 
+    border-top-right-radius: 15px; 
+  }

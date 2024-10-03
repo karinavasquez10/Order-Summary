@@ -1,0 +1,13 @@
+.summary-details{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.change-link{
+    color: aqua;
+    font-size: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+}
